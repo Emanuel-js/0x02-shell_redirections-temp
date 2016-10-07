@@ -3,4 +3,5 @@
 1: Between grep and echo, not sure yet so I will have to revisit as I keep getting "unexpected EOF"<br>
 2: "cat" is the linux command that prints out the content of the file, followed by the name of the file you want to display.<br>
 3: "cat" is the linux command that prints out the content of the file, followed by the name of the file you want to display. In this case, we want to display two of them, so we write out both of them.<br>
-4: Dora's tip was most helpful (also helped me know I was on the right track for the previous "display text" exercises). "tail" is the linux command that prints out the last 10 lines of the file.
+4: Dora's tip was most helpful (also helped me know I was on the right track for the previous "display text" exercises). "tail" is the linux command that prints out the last 10 lines of the file.<br>
+5: "head" is the linux command that prints out the first 10 lines of the file we want to display.
