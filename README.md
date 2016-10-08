@@ -17,3 +17,4 @@
 15: "grep -c" prints out the number of lines that contain a particular designated pattern.<br>
 16: I have the synopsis down but my code test doesn't output anything.<br>
 17: The invert option (-v) option is needed to do the opposite of what would otherwise be a run of the mill grep script.<br>
+18: I used my error to fix the syntax of my synopsis, but I still get no output.<br>
