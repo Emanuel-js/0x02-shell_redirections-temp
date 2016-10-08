@@ -13,3 +13,4 @@
 11: I am in the right direction but keep getting an error message on the "wc -1" format.<br>
 12: I get this error message right now: sort: option requires an argument -- 't'<br>
 13: "uniq" finds the unique words, with the option -u that only prints the unique lines.<br>
+14: "grep" prints out the line when it matches with its designated pattern.<br>
