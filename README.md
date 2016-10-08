@@ -15,3 +15,5 @@
 13: "uniq" finds the unique words, with the option -u that only prints the unique lines.<br>
 14: "grep" prints out the line when it matches with its designated pattern.<br>
 15: "grep -c" prints out the number of lines that contain a particular designated pattern.<br>
+16: I have the synopsis down but my code test doesn't output anything.<br>
+17: The invert option (-v) option is needed to do the opposite of what would otherwise be a run of the mill grep script.<br>
