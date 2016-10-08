@@ -14,3 +14,4 @@
 12: I get this error message right now: sort: option requires an argument -- 't'<br>
 13: "uniq" finds the unique words, with the option -u that only prints the unique lines.<br>
 14: "grep" prints out the line when it matches with its designated pattern.<br>
+15: "grep -c" prints out the number of lines that contain a particular designated pattern.<br>
