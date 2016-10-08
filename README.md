@@ -9,4 +9,4 @@
 7: This has to do with 1, which I am not sure about but I think my Synopsis is in the right direction.<br>
 8: "ls -la" will take the contents of its own output and append it to the file "ls_cwd_content". Since the file doesn't even exist, it will be created (unsure if you can use ">" to do this as well).<br>
 9: We want to duplicate the last line, so we need to use "tail". Being it's the last line (we want to duplicate), we need to use "-n 1". Lastly, we need to name the file we want this script to execute on (to duplicate the last line).<br>
-10: I went down the pipeline route, but Ian saw my initial script and brought to my attention that "rm" can be done within "find". I'm going to read more.
+10: "find" is the command. I'm not sure what ~ does. "-type f" classifies it as a regular file. '-name "*JPG"' specifies the name of the files we are looking for, with the wildcard+JPG enclosed in quotations to prevent pathname expansion by the shell. '-delete' deletes. 
