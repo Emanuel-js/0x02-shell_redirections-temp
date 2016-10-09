@@ -18,7 +18,7 @@
 16: I have the synopsis down but my code test doesn't output anything.<br>
 17: The invert option (-v) option is needed to do the opposite of what would otherwise be a run of the mill grep script.<br>
 18: I used my error to fix the syntax of my synopsis, but I still get no output.<br>
-19:<br>
+19: I believe grep and tr should be used together with a pipeline, but I can't figure out how that code would play out according to syntax.<br>
 20:<br>
 21: Like most of the challenges, I initially overthought this. Then, I looked at the commands we should be most concerned with today and found my rev, which I guessed to be the command I needed, as I have gotten into the habit of thinking commands from the perspective of the creator.<br>
 22:<br>
